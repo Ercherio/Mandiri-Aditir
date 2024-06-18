@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\repositories\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:repositories\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:viewmodels\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\context\\merchantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:context\\merchantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\handlers\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:handlers\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\viewmodels\\tokenvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:viewmodels\\tokenvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\models\\ownermerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:models\\ownermerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\controllers\\authitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:controllers\\authitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\handlers\\hmachelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:handlers\\hmachelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\models\\authassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:models\\authassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\models\\cashiermerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:models\\cashiermerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\handlers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:handlers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\models\\authitemchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:models\\authitemchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\controllers\\authitemchildscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:controllers\\authitemchildscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\repositories\\data\\authitemchildrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:repositories\\data\\authitemchildrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\models\\authitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:models\\authitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\controllers\\ownermerchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:controllers\\ownermerchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\repositories\\data\\authassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:repositories\\data\\authassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\repositories\\data\\merchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:repositories\\data\\merchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|d:\\belajar\\recrut\\mandiri-aditira\\controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B6FB32-0E8B-4508-BA63-1366A4CEEF40}|MerchantService.csproj|solutionrelative:controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginVM.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\UserLoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserLoginVM.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\UserLoginVM.cs",
+              "RelativeToolTip": "ViewModels\\UserLoginVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA9wAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:26:52.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenVM.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\TokenVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TokenVM.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\TokenVM.cs",
+              "RelativeToolTip": "ViewModels\\TokenVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:04:40.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:28:03.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterVM.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:51:52.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAIAwwL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:48:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hashing.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Handlers\\Hashing.cs",
+              "RelativeDocumentMoniker": "Handlers\\Hashing.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Handlers\\Hashing.cs",
+              "RelativeToolTip": "Handlers\\Hashing.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAIAwwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:42:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:40:30.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HmacHelper.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Handlers\\HmacHelper.cs",
+              "RelativeDocumentMoniker": "Handlers\\HmacHelper.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Handlers\\HmacHelper.cs",
+              "RelativeToolTip": "Handlers\\HmacHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:24:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Handlers\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Handlers\\AppSettings.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Handlers\\AppSettings.cs",
+              "RelativeToolTip": "Handlers\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:21:56.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "Base\\BaseController.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Base\\BaseController.cs",
+              "RelativeToolTip": "Base\\BaseController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAADwv68AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:34:51.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CashierMerchant.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\CashierMerchant.cs",
+              "RelativeDocumentMoniker": "Models\\CashierMerchant.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\CashierMerchant.cs",
+              "RelativeToolTip": "Models\\CashierMerchant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:38:37.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAADwv0sAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:03:30.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T08:33:33.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthAssignment.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\AuthAssignment.cs",
+              "RelativeDocumentMoniker": "Models\\AuthAssignment.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\AuthAssignment.cs",
+              "RelativeToolTip": "Models\\AuthAssignment.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:37:45.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneralRepository.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\GeneralRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GeneralRepository.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\GeneralRepository.cs",
+              "RelativeToolTip": "Repositories\\GeneralRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:38:49.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthItemChildsController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\AuthItemChildsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthItemChildsController.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\AuthItemChildsController.cs",
+              "RelativeToolTip": "Controllers\\AuthItemChildsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:32:11.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthItemChild.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\AuthItemChild.cs",
+              "RelativeDocumentMoniker": "Models\\AuthItemChild.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\AuthItemChild.cs",
+              "RelativeToolTip": "Models\\AuthItemChild.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:34:13.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthItemChildRepository.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\AuthItemChildRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Data\\AuthItemChildRepository.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\AuthItemChildRepository.cs",
+              "RelativeToolTip": "Repositories\\Data\\AuthItemChildRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:17:03.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthItem.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\AuthItem.cs",
+              "RelativeDocumentMoniker": "Models\\AuthItem.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\AuthItem.cs",
+              "RelativeToolTip": "Models\\AuthItem.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:23:12.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Merchant.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\Merchant.cs",
+              "RelativeDocumentMoniker": "Models\\Merchant.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\Merchant.cs",
+              "RelativeToolTip": "Models\\Merchant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:46:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OwnerMerchant.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\OwnerMerchant.cs",
+              "RelativeDocumentMoniker": "Models\\OwnerMerchant.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Models\\OwnerMerchant.cs",
+              "RelativeToolTip": "Models\\OwnerMerchant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:37:57.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MerchantContext.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Context\\MerchantContext.cs",
+              "RelativeDocumentMoniker": "Context\\MerchantContext.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Context\\MerchantContext.cs",
+              "RelativeToolTip": "Context\\MerchantContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA6wAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:11:23.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OwnerMerchantsController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\OwnerMerchantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OwnerMerchantsController.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\OwnerMerchantsController.cs",
+              "RelativeToolTip": "Controllers\\OwnerMerchantsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:44:43.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthAssignmentRepository.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\AuthAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Data\\AuthAssignmentRepository.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\AuthAssignmentRepository.cs",
+              "RelativeToolTip": "Repositories\\Data\\AuthAssignmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:38:38.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthItemsController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\AuthItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthItemsController.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\AuthItemsController.cs",
+              "RelativeToolTip": "Controllers\\AuthItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:32:03.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Data\\UserRepository.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Data\\UserRepository.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAIAwwGsBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:50:31.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MerchantRepository.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\MerchantRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Data\\MerchantRepository.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Repositories\\Data\\MerchantRepository.cs",
+              "RelativeToolTip": "Repositories\\Data\\MerchantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:45:09.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MerchantsController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\MerchantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MerchantsController.cs",
+              "ToolTip": "D:\\Belajar\\Recrut\\Mandiri-Aditira\\Controllers\\MerchantsController.cs",
+              "RelativeToolTip": "Controllers\\MerchantsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T07:44:08.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
